@@ -1,1 +1,1 @@
-# image_processing_with_opencv
+# Image Processing with Opencv
