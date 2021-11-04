@@ -1,0 +1,5 @@
+MODEL N1  : 
+Number of forms : 3 
+Rectangle: Largeur= 340,Longueur= 118,Position X= 196,Position Y= 466,Surface= 39663.0 
+Cercle: Largeur= 156,Longueur= 157,Position X= 516,Position Y= 63,Surface= 19226.5 
+Cercle: Largeur= 155,Longueur= 156,Position X= 90,Position Y= 62,Surface= 19227.5 
